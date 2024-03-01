@@ -1,0 +1,40 @@
+body {
+    background-color: beige;
+}
+
+h1 {
+    background-color: aqua;
+}
+
+.first {
+    background-color: yellow;
+}
+
+h2 {
+    background-color: aquamarine;
+}
+
+.second {
+    background-color: blueviolet;
+}
+
+ol li:first-child {
+    color: blue;
+}
+
+ol li:nth-child(2) {
+    color: blueviolet;
+}
+
+ol li:nth-child(3) {
+    color: pink;
+}
+
+ol li:nth-child(4) {
+    color: aqua;
+}
+
+ol li:nth-child(5) {
+    color: red;
+}
+
